@@ -1,0 +1,30 @@
+https://youtu.be/EyB78MiGqYY?si=k4PLVHwtIACAZKU8 -cswordl playlist --->75-10 =65
+
+1)---------------------------routes-------------------4
+
+   1)day-30 16-10-2024  routes https://youtu.be/KcAD7IcQkg8?si=rAjrw3wnU1KLfSAu csworld 
+   2)day-31  16-10-2024 routes https://youtu.be/jCWwpHoZ6Co?si=tvLlUnae1V5BMVx0 csworld
+   3)day-33  16-10-2024 routes https://youtu.be/HLxZfXvg5qU?si=-oqQD1gLTkTFpEJq csworld
+   4)day-34  16-10-2024 routes https://youtu.be/HeECSL2v3d4?si=HeMLPjpRlq7ZXUUQ csworld
+
+2)-----------------------imports and exports-------------------------------- 1
+   1)day-7 16-10-2024 import and export    https://youtu.be/ctFCiCvGmu4?si=WLCyGy5_ohmrjP3b csworld 
+
+3)--------------------------probs-----------------------------------
+4)--------------------------states-------------------------------
+5)--------------------------lifecycles--------------------------
+6)-------------------------redux-------------------------------
+7)---------------------jsxsyntax----------------------- 4
+   1)day-5 16-10-2024  jsxsyntax https://youtu.be/ZWv_yxCKXMM?si=qtCV0ANm1idtG_rQ  csworld 
+   2)day-8  16-10-2024 jsxsyntax https://youtu.be/0gmzh5DesRA?si=8Tkf6EfdgwqlI5ev csworld
+   3)day-14  16-10-2024 jsxsyntax https://youtu.be/k2I575l2jEw?si=ZSw9iy2igYQTldBh csworld
+   4)day-56  16-10-2024 jsxsyntax https://youtu.be/qx9j__JZqsQ?si=vKjn0dKzU4y8QMow csworld
+   
+8)--------------------------component--------------------------------
+
+9)----------------------array methods----------------------
+10)----------------------condition rendering---------------
+11)-----------------------bootstrap---------------------1
+    1)day-46 16-10-2024  routes https://youtu.be/mImrJF_A05M?si=7-ZUej2b8XZyWfn_ csworld 
+
+12)-----------------------event handeling--------------------------------

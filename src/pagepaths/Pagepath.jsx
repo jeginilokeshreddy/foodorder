@@ -8,7 +8,7 @@ import Errorpage from "../pages/errorpage/Errorpage"
     path:"*",
     element:<Errorpage/>
  }, {
-         path: "Navbar",
+         path: "/",
          element: <Topbar />
      },])
 

@@ -1,0 +1,74 @@
+//   building block for elment and tags
+
+$default_bgcolor: #03d35d;
+
+* {
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+  font-family: roboto;
+}
+.button {
+  height: 36px;
+  padding: 8px 16px;
+  background: $default_bgcolor;
+  border: none;
+  border-radius: 16px;
+  cursor: pointer;
+}
+.input {
+  height: 36px;
+  padding: 8px 16px;
+  width: 100%;
+}
+//    direction
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+}
+.flex_column {
+  flex-direction: column;
+}
+
+@media screen and (min-width: 320px) {
+  .row_section {
+    width: 100%;
+    padding: 16px;
+  }
+}
+
+@media screen and (min-width: 576px) {
+  .row_section {
+    padding: 24px;
+  }
+}
+@media screen and (min-width: 768px) {
+  .row_section {
+    padding: 32px;
+  }
+}
+@media screen and (min-width: 992px) {
+  .row_section {
+    padding: 40px;
+  }
+}
+@media screen and (min-width: 1200px) {
+  .row_section {
+    padding: 48px;
+  }
+}
+
+@media screen and (min-width: 1400px) {
+  .row_section {
+    padding: 16px 60px;
+  }
+}
+
+// left right -->
+// top-bottom-->
+// width--per
+// height--px
+// font-size--px
