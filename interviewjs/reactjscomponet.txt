@@ -1,0 +1,39 @@
+function componet
+
+const Navbar=()=>{
+    return()
+}
+
+class component
+
+
+
+import React, { Component } from "react";
+
+class MyComponent extends Component {
+  constructor(props) {
+    super(props);
+    // State is initialized here
+    this.state = {
+      count: 0,
+    };
+  }
+
+  // Method to increment the count
+  incrementCount = () => {
+    this.setState({ count: this.state.count + 1 });
+  };
+
+  // Render method is required in class components to return JSX
+  render() {
+    return (
+      <div>
+        <h1>Class Component Example</h1>
+        <p>Count: {this.state.count}</p>
+        <button onClick={this.incrementCount}>Increment</button>
+      </div>
+    );
+  }
+}
+
+export default MyComponent;
