@@ -1,4 +1,4 @@
-https://youtu.be/EyB78MiGqYY?si=k4PLVHwtIACAZKU8 -cswordl playlist --->75-12 =63
+https://youtu.be/EyB78MiGqYY?si=k4PLVHwtIACAZKU8 -cswordl playlist --->75-13 =62
 
 1)---------------------------routes-------------------4
 
@@ -31,7 +31,7 @@ https://youtu.be/EyB78MiGqYY?si=k4PLVHwtIACAZKU8 -cswordl playlist --->75-12 =63
 12)-----------------------event handeling--------------------------------
 13)--------------------------static images handling-------------- 1
    1)day 29 17-10-2024 static images https://youtu.be/wskvmG013jI?si=q8oGH_43Y77jChcy csworld
-14)--------------------------hooks------------------------------------------------
+14)--------------------------hooks------------------------------------------------1
    1)hooks are method which are called but the react libriay when we call the page
    2)the hooks have desing for calling in the order 
 

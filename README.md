@@ -63,3 +63,47 @@ allways varible call will give one value
 read -understand meaning  -- read and unserstand meaning of word and sentence it will give some informt based on that information our working flow will presnt
 read -like a text -- this will create a problem (here we will not understand the meaning jst we are reading like normal text)
 
+learinig process-->register steps ,call steps for practic,then rember
+------------------------------axiso vs fetch---------------keyword ,method,function(userdefine,predefine,libriary(npm))
+06:05 axios will give promise result directly but fecth will give http://-- response
+
+
+
+block of code to execute
+function call to run the block of code
+
+some function will take time for execution
+
+soem time block of code will take time
+
+manau vaka code nee call chestamu
+
+with the help of page call -- global scope
+with the help of function  --local scope
+
+some time function call chesi napude function lonie block of code execute avadaniki time thisukumtumdi
+
+apusu yemi chestamu
+
+function nee asyc chesama 
+
+function lopala vum na code nee asyn chesthama
+
+functiondef(){
+    async()
+}
+functiondef()  -- function call
+--------------------------------------
+statement------------;(semi colon)
+block --start with {, and end with }
+we have different type of block --->conditional block
+                                -->loop block
+                                -->object block
+based on the keyword we will define block
+every block start and end  with flower braces {}
+
+block will consit nested blocks
+each block have multible statements
+evey statement end with semicolan
+
+1) 7:58 what we learn on the first session how to make asyn a block of code by using settimer methods
