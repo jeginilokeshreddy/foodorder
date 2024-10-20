@@ -40,3 +40,72 @@ https://youtu.be/EyB78MiGqYY?si=k4PLVHwtIACAZKU8 -cswordl playlist --->75-13 =62
     this are mainly used for api calling
     comonentDidmount(),useEffect() are same 
    2)
+
+
+
+
+
+(101)-5=96--------------------------------------------------javascript cs world------------javascript is used to update value by calling functions with diffent inputs with the help of html events
+----------------------------javascript Road map---------------------2
+
+1)Day-1 21-10-2024 why we use js https://youtu.be/R4MMtTLUZp4?si=Q4NOF3CIUKgSk6GY cs world
+2)Day-2 21-10-2024 javascript roadmap https://youtu.be/_DTwrzHWtjI?si=GhVS509k1r_ZwGAb cs world
+
+
+---------------------------------------Callback functions-----------------------2
+1)Day-35 21-10-2024 callback https://youtu.be/ZDzWdFYBgLI?si=hnZmii8kqIgbZBki cs world
+2)Day-36 21-10-2024 higher order function https://youtu.be/YbiwZXenseU?si=A6rUtr9IlXX1KDeg cs world
+-------------------------------------Data types------------------------------------------
+Array
+Object
+---------------------------------------String-------------------------------1
+
+
+1)Day-5 21-10-2024 Temmplate literal https://youtu.be/n3rYHNU20mU?si=g0mTvtfcpUAsI6Iw cs world
+2)
+
+Number
+Boolean
+Date
+Time
+----------------------------structure datatype(array,object)-------------Data Structures---------------------
+---------------------------------------------------functions------------------------------
+
+---------------------------------------Async functions-------------------------------------
+
+------------------------------loops-----------------------------
+----------------------------constrol statements-----------------------
+-----------------------------blocks------------------------------------
+------------------------Operators-----------------------------------
+-------------------------Varaibles--------------------------------
+--------------------------Type conversion-------------------
+--------------------------------------Dom manipulation------------------------------
+----------------------------Nested---------------------
+--------------------------Scope------------------------
+------------------------validation------------------------
+-------------------------Events------------------
+
+
+.
+
+------------------------Advanced
+
+-------------------Prototyping
+
+--------------------Proto type Inheritance
+
+
+
+IIFE
+
+Promises
+
+· Ajax
+
+. Async Await
+
+· Closures
+
+OPPs Concepts
+
+JSON
