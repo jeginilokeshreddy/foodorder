@@ -2,6 +2,10 @@
 // https://chatgpt.com/share/671549c1-6ea0-8001-a359-0b48b31f790b call inside function
 // https://chatgpt.com/share/671549f3-c3a4-8001-a820-0bd6c949df02 callback function
 
+//code run on the same thread -synchronous
+
+//code run on the different thread -- asynchronous (we will write the time taking code inside the async block to run on the seperate thread to over come the block on the main thread)
+
 // // -------------------------------synchronous----------------------------------
 // console.log("line-1");
 // console.log("line-2");
