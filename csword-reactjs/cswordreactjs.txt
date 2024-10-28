@@ -45,7 +45,7 @@ https://youtu.be/EyB78MiGqYY?si=k4PLVHwtIACAZKU8 -cswordl playlist --->75-13 =62
 
 
 
-(101)-5=96--------------------------------------------------javascript cs world------------javascript is used to update value by calling functions with diffent inputs with the help of html events
+(101)-10=91--------------------------------------------------javascript cs world------------javascript is used to update value by calling functions with diffent inputs with the help of html events
 ----------------------------javascript Road map---------------------2
 
 1)Day-1 21-10-2024 why we use js https://youtu.be/R4MMtTLUZp4?si=Q4NOF3CIUKgSk6GY cs world
@@ -53,8 +53,8 @@ https://youtu.be/EyB78MiGqYY?si=k4PLVHwtIACAZKU8 -cswordl playlist --->75-13 =62
 
 
 ---------------------------------------Callback functions-----------------------2
-1)Day-35 21-10-2024 callback https://youtu.be/ZDzWdFYBgLI?si=hnZmii8kqIgbZBki cs world
-2)Day-36 21-10-2024 higher order function https://youtu.be/YbiwZXenseU?si=A6rUtr9IlXX1KDeg cs world
+1)Day-34 21-10-2024 callback https://youtu.be/ZDzWdFYBgLI?si=hnZmii8kqIgbZBki cs world
+2)Day-35 21-10-2024 higher order function https://youtu.be/YbiwZXenseU?si=A6rUtr9IlXX1KDeg cs world
 -------------------------------------Data types------------------------------------------
 Array
 Object
@@ -71,7 +71,10 @@ Time
 ----------------------------structure datatype(array,object)-------------Data Structures---------------------
 ---------------------------------------------------functions------------------------------
 
----------------------------------------Async functions-------------------------------------
+---------------------------------------Async functions------------------------------------- 3
+1)Day-49 23-10-2024 Callbackhell https://youtu.be/Dm9eINmLV-E?si=2h0sBQcoYBRWDAF_ cs world
+2)Day-50 23-10-2024 promise https://youtu.be/cCj4Plp-scY?si=i-kdAt-OTV3wUaWU cs world
+3)Day-52 23-10-2024 Callbackhell https://youtu.be/jvJ073_1DXQ?si=-T477uatdatz3_kd cs world
 
 ------------------------------loops-----------------------------
 ----------------------------constrol statements-----------------------
@@ -94,6 +97,14 @@ Time
 
 --------------------Proto type Inheritance
 
+-------------------------try and catch error handing------------------- 1
+
+1)Day-53 23-10-2024 try and catch error handing https://youtu.be/dV8_bcfQdMI?si=hY9DdcUVfphdJ7n5 cs world
+
+-----------------------------------------crud operation---------------------------1
+
+1)Day-50 23-10-2024 fetch method handing https://youtu.be/widWy7OCoro?si=gl6DH3qZnqLIT05J cs world
+2)json.stringfy
 
 
 IIFE

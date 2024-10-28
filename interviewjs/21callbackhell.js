@@ -14,6 +14,7 @@ function step3(parameter3, cb) {
   cb(parameter3 + 10);
 }
 
+
 // calling one function inside another to get the input from  the one function to the another function function
 
 step1(100,(step1result)=>{
@@ -29,4 +30,5 @@ step1(100,(step1result)=>{
 // 2)function call
 // 3)arugument 
 // 4)parameter
+
 
