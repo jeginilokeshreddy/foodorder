@@ -1,0 +1,32 @@
+
+
+
+ 
+    const [isRunning, setIsRunning] = useState(false);
+    const intervalRef = useRef(null);
+
+    const startfunction = () => {
+        if (!isRunning) {
+            setIsRunning(true);
+            intervalRef.current = setInterval(() => {
+                setCounterValue(prevCounter => prevCounter + 1);
+            }, 1000);
+        }
+    };
+
+    const pausefunction = () => {
+        clearInterval(intervalRef.current);
+        setIsRunning(false);
+    };
+
+    const resetfunction = () => {
+        clearInterval(intervalRef.current);
+        setIsRunning(false);
+        setCounterValue(0);
+    };
+
+    useEffect(() => {
+        return () => clearInterval(intervalRef.current); // Cleanup on component unmount
+    }, []);
+
+

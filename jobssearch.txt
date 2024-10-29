@@ -1,0 +1,23 @@
+skill
+role
+experience -- hands on experience
+---------------------------- filter details for fresh
+location
+job posted
+--------------------------apply mode
+through app
+through other external site
+-------------------------------how to apply for the job
+1)search
+2)filter
+3)apply
+-----------------------------------------
+filter--experience ,skills 
+how to remove un necessary skills
+-------------
+	
+Front End Developer
+Web Developer
+reactjs Developer
+ui Developer -----------------functionality
+ui designer ----------------desing tools

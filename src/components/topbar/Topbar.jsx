@@ -46,30 +46,30 @@ import SearchIcon from "@mui/icons-material/Search";
 // res output 
 
 let postdata = async () => {
-  try {
-    let details = await axios.post("http://localhost:4444/products", {
-      category: "Electronics",
-      description: "4K HD Webcam with noise reduction and low-light correction.",
-      name: "HD Webcam",
-      price: 39.99,
-      rating: 4.4,
-      stock: 60,
-    });
-    console.log("Data posted successfully:", details.data);
-    debugger;
-  } catch (error) {
-    console.error("API failed:", error);
-  }
+  // try {
+  //   let details = await axios.post("http://localhost:4444/products", {
+  //     category: "Electronics",
+  //     description: "4K HD Webcam with noise reduction and low-light correction.",
+  //     name: "HD Webcam",
+  //     price: 39.99,
+  //     rating: 4.4,
+  //     stock: 60,
+  //   });
+  //   console.log("Data posted successfully:", details.data);
+  //   debugger;
+  // } catch (error) {
+  //   console.error("API failed:", error);
+  // }
 };
 
 const Topbar = () => {
   const [apidata,setapidata]=useState(null)
   useEffect((()=>  {
     let data = async () => {
-      let datawithoutaxios = axios.get("http://localhost:4444/products")
-      let details = await axios.get("http://localhost:4444/products")
-      // let details1 = await details
-      console.log(details.data)
+      // let datawithoutaxios = axios.get("http://localhost:4444/products")
+      // let details = await axios.get("http://localhost:4444/products")
+      // // let details1 = await details
+      // console.log(details.data)
       debugger
     }
     data()
